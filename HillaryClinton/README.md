@@ -6,7 +6,7 @@ The dataset has been cleaned and can be directly [downloaded](https://www.kaggle
 
 A few remarks after a quickly browsing through her E-mails:
 
-- Hillary Clinton, like any cooporate user, does receive a lot of standardized E-mails with very little actual c 
+- Hillary Clinton, like any cooporate user, does receive a lot of standardized E-mails with very little actual content 
 - Funny: Very often she wrongly types 'pis print' instead of 'pls print' (please print).
 - Interesting: Hillary Clinton seems to have the more interesting discussions via phone as indicated by a 'please call me', 'call back', etc. Would be interesting to check if those E-mails have something in common.
 
